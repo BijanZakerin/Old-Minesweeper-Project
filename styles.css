@@ -1,0 +1,34 @@
+header {
+    text-align: center;
+    font-size:24px;
+}
+
+
+.cell {
+    width:25px;
+    height:25px;
+    background-color:grey;
+    margin-right:1px;
+    color:grey;
+}
+
+.board {
+    display:flex;
+    justify-content: space-between;
+    background-color:#41817F;   
+    border-radius:5px;
+}
+
+
+body {
+    background-color: #226764;
+}
+
+.flex-div {
+    font-size:18px;
+}
+
+.flex-div2 {
+    overflow-y: auto;
+}
+
